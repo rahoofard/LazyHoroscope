@@ -6,9 +6,14 @@ using namespace std;
 
 int main()
 {
-  //declare variables
-
+  //declare variable
+string first;
+string last; 
   //get user input
+cout<<"What is your first name?"<< endl;
+cin>>first;
+cout<<"What is your last name?"<< endl;
+cin>>last;
 
   //tell fortune
 
